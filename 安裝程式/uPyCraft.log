@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "uPyCraft.py", line 2835, in <module>
+  File "uPyCraft.py", line 87, in __init__
+  File "uPyCraft.py", line 217, in setFont
+FileNotFoundError: [Errno 2] No such file or directory: 'C:/SPB_Data/Desktop/SourceCodePro.ttf'
